@@ -59,6 +59,7 @@ R.ai is proudly built by an indie developer using modern cross-platform technolo
 * **Framework:** [Flutter](https://flutter.dev/)
 * **Database:** Local SQLite
 ---
-##
+## donation 
+for donation paypal :-https://paypal.me/roheetrana5
 for source code you can also give source code to get r.ai into your window or mac in resonable price. ##
 *Disclaimer: Make sure to only download the R.ai application from the official link provided via my Instagram DM to ensure device security.*
