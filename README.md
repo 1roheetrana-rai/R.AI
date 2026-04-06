@@ -15,12 +15,13 @@ By utilizing localized SQLite databases instead of cloud solutions like Firebase
 But privacy doesn’t mean sacrificing features. R.ai is packed with smart integrations wrapped in a stunning, modern **Glassmorphism** interface.
 ---
 ## 🚀 Core Features
-### 🔒 100% Privacy & Local Storage<img width="386" height="842" alt="Screenshot 2026-04-07 031350" src="https://github.com/user-attachments/assets/bf98da57-bfc9-400e-a4cd-ed56e7e7b234" />
-<img width="385" height="836" alt="Screenshot 2026-04-07 031425" src="https://git<img width="1920" height="1080" alt="Screenshot 2026-04-07 031750" src="https://github.com/user-attachments/assets/9baea0f9-0f56-455b-8a88-a44f4bb86cb0" />
+### 🔒 100% Privacy & Local Storage
+<img width="386" height="842" alt="Screenshot 2026-04-07 031350" src="https://github.com/user-attachments/assets/bf98da57-bfc9-400e-a4cd-ed56e7e7b234" />
 <img width="386" height="838" alt="Screenshot 2026-04-07 031606" src="https://github.com/user-attachments/assets/7e1c4e09-0354-4e81-b0c5-bc38f53d3e2e" />
 <img width="377" height="845" alt="Screenshot 2026-04-07 031505" src="https://github.com/user-attachments/assets/199a6fc6-1099-4ff6-8291-a80fbed5b0fc" /> 
 <img width="387" height="837" alt="Screenshot 2026-04-07 031924" src="https://github.com/user-attachments/assets/9fa4d631-c937-4edc-9e01-0135859ae933" />
-
+<img width="385" height="836" alt="Screenshot 2026-04-07 031425" src="https://github.com/user-attachments/assets/d7a33239-0e3d-4014-8374-e29675244d9c" />
+<img width="382" height="832" alt="Screenshot 2026-04-07 031850" src="https://github.com/user-attachments/assets/2cf4141b-b93b-485e-85a7-75908ffacd3e" />
 
 Your data is yours. R.ai stores all conversations, personas, and settings locally on your device. No cloud backups, no data harvesting.
 ### 📱 Autonomous App Control (WhatsApp & More)
