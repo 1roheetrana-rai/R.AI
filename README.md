@@ -15,7 +15,13 @@ By utilizing localized SQLite databases instead of cloud solutions like Firebase
 But privacy doesn’t mean sacrificing features. R.ai is packed with smart integrations wrapped in a stunning, modern **Glassmorphism** interface.
 ---
 ## 🚀 Core Features
-### 🔒 100% Privacy & Local Storage
+### 🔒 100% Privacy & Local Storage<img width="386" height="842" alt="Screenshot 2026-04-07 031350" src="https://github.com/user-attachments/assets/bf98da57-bfc9-400e-a4cd-ed56e7e7b234" />
+<img width="385" height="836" alt="Screenshot 2026-04-07 031425" src="https://git<img width="1920" height="1080" alt="Screenshot 2026-04-07 031750" src="https://github.com/user-attachments/assets/9baea0f9-0f56-455b-8a88-a44f4bb86cb0" />
+<img width="386" height="838" alt="Screenshot 2026-04-07 031606" src="https://github.com/user-attachments/assets/7e1c4e09-0354-4e81-b0c5-bc38f53d3e2e" />
+<img width="377" height="845" alt="Screenshot 2026-04-07 031505" src="https://github.com/user-attachments/assets/199a6fc6-1099-4ff6-8291-a80fbed5b0fc" /> 
+<img width="387" height="837" alt="Screenshot 2026-04-07 031924" src="https://github.com/user-attachments/assets/9fa4d631-c937-4edc-9e01-0135859ae933" />
+
+
 Your data is yours. R.ai stores all conversations, personas, and settings locally on your device. No cloud backups, no data harvesting.
 ### 📱 Autonomous App Control (WhatsApp & More)
 R.ai acts as a true operator. By utilizing advanced Android Accessibility features, R.ai can autonomously navigate your phone, open apps like WhatsApp, and send messages on your behalf just like a real human finger.
@@ -32,16 +38,12 @@ Control your physical environment. R.ai integrates directly with your local **Ho
 ### 💎 Premium Glassmorphism UI
 An AI should look as smart as it acts. R.ai features a breathtaking Glassmorphism aesthetic, featuring dynamic blurred backgrounds, smooth Lottie animations, and a responsive, buttery-smooth Flutter rendering engine.
 ---
-## 📸 Screenshots
-*(Add your screenshots here!)*
-| Home Screen | Chat Interface | Smart Home Control |
-| :---: | :---: | :---: |
-| ![Home](home_screenshot.png) | ![Chat](chat_screenshot.png) | ![Home Control](home_screenshot.png) |
+
 ---
 ## 📥 Get the R.ai App for FREE!
 Right now, I am offering the premium **Android APK** to my community absolutely **free**. Because this app requires secure accessibility and local environment setups, it is not available on the public Google Play Store.
 ### How to get your secure download link:
-1. **Follow me on Instagram:** (PASTE YOUR INSTAGRAM LINK HERE)
+1. **Follow me on Instagram:** (https://www.instagram.com/hyroheet/)
 2. **Send me a DM** with the word: **`R.AI`**
 3. I will instantly reply with the secure Google Drive link to download the latest `.apk` version!
 <br>
@@ -56,4 +58,6 @@ R.ai is proudly built by an indie developer using modern cross-platform technolo
 * **Framework:** [Flutter](https://flutter.dev/)
 * **Database:** Local SQLite
 ---
+##
+for source code you can also give source code to get r.ai into your window or mac in resonable price. ##
 *Disclaimer: Make sure to only download the R.ai application from the official link provided via my Instagram DM to ensure device security.*
