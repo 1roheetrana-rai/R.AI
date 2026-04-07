@@ -54,6 +54,10 @@ Right now, I am offering the premium **Android APK** to my community absolutely 
   </a>
 </p>
 ---
+## what is requirements after installation
+1. accessibilty setting> downloads> Rai this setting is for users who want there R.ai app max performance by enabling this setting you can give r.ai to read,write , reply on apps like whatsapp gmail etc 
+2. this app contain permission like accessibilty thats why you can see issue while installing from play protect it can be fix by going to playstore and disabling play protect from setting. 
+3. this app do not contain any type of malware or virus.You can download by paying some donation to further updates and follow my instagram account to tell about issues or bugs and if you you want own source code you contact and get in resonable price.
 ## 🛠️ Built With
 R.ai is proudly built by an indie developer using modern cross-platform technologies:
 * **Framework:** [Flutter](https://flutter.dev/)
