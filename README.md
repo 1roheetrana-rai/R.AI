@@ -58,7 +58,7 @@ Right now, I am offering the premium **Android APK** to my community absolutely 
 1. accessibilty setting> downloads> Rai this setting is for users who want there R.ai app max performance by enabling this setting you can give r.ai to read,write , reply on apps like whatsapp gmail etc 
 2. this app contain permission like accessibilty thats why you can see issue while installing from play protect it can be fix by going to playstore and disabling play protect from setting. 
 3. this app do not contain any type of malware or virus.You can download by paying some donation to further updates and follow my instagram account to tell about issues or bugs and if you you want own source code you contact and get in resonable price.
-link to download :- https://drive.google.com/file/d/1V9KllLt7SL1ubdc5fMJjagDmetMqhpGE/view?usp=drive_link
+link to download :- https://drive.google.com/file/d/1qT9LiomHXR5WFAi4OCGQ40h_Gsl4Sdh8/view?usp=drive_link
 4. for using offline modal you have to download gemma model and save it in documents in all type of devices information is provided in app.
 ## 🛠️ Built With
 R.ai is proudly built by an indie developer using modern cross-platform technologies:
