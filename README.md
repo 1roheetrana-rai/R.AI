@@ -1,5 +1,5 @@
 # R.AI
-R.ai is Personal Ai that is same like a Open Claw but even better than that its use other ai model through api to be your personal ai agent it can handle all tasks in your device mobile, window and ios. It can open other app also can use that app and also can connect with your home appliance through house assistant.
+R.ai is Personal Ai agent that is same like a Open Claw  even better than Opem claw, it uses other ai model through api and also offline open source model like gemma and llama locally to be your personal ai agentc, it can handle all tasks in your device mobile, window and ios. It offers chat interface to talk with voice feature and can open other app for you to fullfill your demand like message reply, notify, call picking, anwsering call, setting alarm. mailing, etc. Also it can  connect with your home appliance through home assistant so you can control you home appliance for example like turn off light off after 9:00 pm etc all this at one place with full privacy as it save all data in your device locally SQlite also it can be your default ai for mobile phones.
  🤖 R.ai - Your Private, Offline AI Companion
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -59,6 +59,7 @@ Right now, I am offering the premium **Android APK** to my community absolutely 
 2. this app contain permission like accessibilty thats why you can see issue while installing from play protect it can be fix by going to playstore and disabling play protect from setting. 
 3. this app do not contain any type of malware or virus.You can download by paying some donation to further updates and follow my instagram account to tell about issues or bugs and if you you want own source code you contact and get in resonable price.
 link to download :- https://drive.google.com/file/d/1V9KllLt7SL1ubdc5fMJjagDmetMqhpGE/view?usp=drive_link
+4. for using offline modal you have to download gemma model and save it in documents in all type of devices information is provided in app.
 ## 🛠️ Built With
 R.ai is proudly built by an indie developer using modern cross-platform technologies:
 * **Framework:** [Flutter](https://flutter.dev/)
